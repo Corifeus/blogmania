@@ -1,0 +1,1 @@
+Bienvenido a BlogManía, un proyecto desarrollado por Corifeus
